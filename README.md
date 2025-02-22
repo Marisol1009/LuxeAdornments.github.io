@@ -8,13 +8,13 @@
     <style>
         body {
             font-family: Arial, sans-serif;
-            background-color: #f8f8f8;
+            background-color: #fde4ec;
             color: #333;
             margin: 0;
             padding: 0;
         }
         header {
-            background-color: #0c0c0c;
+            background-color: #d63384;
             color: gold;
             text-align: center;
             padding: 20px;
@@ -22,7 +22,7 @@
             font-weight: bold;
         }
         nav {
-            background-color: #333;
+            background-color: #e91e63;
             padding: 10px;
             text-align: center;
         }
@@ -52,7 +52,7 @@
             border-radius: 5px;
         }
         footer {
-            background-color: #0c0c0c;
+            background-color: #d63384;
             color: white;
             text-align: center;
             padding: 10px;
@@ -90,3 +90,4 @@
     </footer>
 </body>
 </html>
+
