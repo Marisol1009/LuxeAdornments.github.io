@@ -3,7 +3,7 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <meta name="description" content="Welcome to Luxe Adornments – where elegance meets timeless beauty. We specialize in high-quality, gold-plated and stainless steel jewelry, featuring exquisite pieces from renowned brands like Van Cleef, Chanel, Gucci, and David Yurman. Elevate your style with jewelry that speaks of grace, prestige, and impeccable craftsmanship.">
+    <meta name="description" content=Welcome to Luxe Adornments – where elegance meets timeless beauty. We specialize in high-quality, gold-plated and stainless steel jewelry, featuring exquisite pieces. Our collection is curated for those who appreciate sophistication and lasting luxury. Elevate your style with jewelry that speaks of grace, prestige, and impeccable craftsmanship. Explore Luxe Adornments today and find the perfect piece to adorn your beauty.>
     <title>Luxe Adornments - High-Quality Jewelry</title>
     <style>
         body {
